@@ -1,5 +1,4 @@
-﻿Nro.;Fecha-Hora de Medicion;CANAL MAULE
-;;Caudal (m3/seg)
+﻿Nro;Fecha-Hora;CANAL MAULE;Caudal (m3/seg)
 1;01/05/2026 00:18 ;11.927
 2;01/05/2026 00:48 ;11.927
 3;01/05/2026 01:18 ;11.927
